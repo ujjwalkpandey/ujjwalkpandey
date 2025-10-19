@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Ujjwal 👋
 
-<!--
-**ujjwalkpandey/ujjwalkpandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 3rd-year B.Tech CS student at KIIT University. I research and build ML/NLP tools that help people read and understand research and computational math and code.
 
-Here are some ideas to get you started:
+**Current focus:** Bridge Complexity / “A Fistful of Problems”; NLP for research assistants; explainable code tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📄 Papers: *A Fistful of Problems* (preprint)
+- 🛠️ Projects: ArxAst (paper-reading assistant)
+- 🔭 Exploring: average-case complexity, transformer models for summarisation
+- 📫 Reach: ujjwalpandey1729@gmail.com | LinkedIn:  | GitHub: github.com/ujjwalkpandey
+
+---
+
+- 🔭 I’m currently working on ... My 3rd research paper and pre final year projects.
+- 🌱 I’m currently learning ... NLP and bettering my CI skills.
+- 👯 I’m looking to collaborate on ... papers and projects related to math and ML.
+- 😄 Pronouns: ... he/him
 -->
